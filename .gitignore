@@ -3,3 +3,4 @@ build/
 target/**
 
 !target/util.js
+!build/class1.o
