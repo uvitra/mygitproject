@@ -1,3 +1,5 @@
 *.class
 build/
 target/**
+
+!target/util.js
