@@ -1,1 +1,2 @@
 ANother file.
+Adding another line.
