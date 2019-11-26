@@ -3,3 +3,4 @@ First line of text.
 SOme text here.
 Adding a line.
 Checking commit messages.
+Adding a line from my_branch
