@@ -1,2 +1,3 @@
 ANother file.
 Adding another line.
+Checking message template
