@@ -4,3 +4,4 @@ SOme text here.
 Adding a line.
 Checking commit messages.
 Adding a line from my_branch
+Adding a line from my_branch
