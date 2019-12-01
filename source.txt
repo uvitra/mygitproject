@@ -1,5 +1,5 @@
 First line of text.
 SOme text here.
 Adding a line.
-Checking commits again.
+Checking commit once  again.
 Adding a line from my_branch
