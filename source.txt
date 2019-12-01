@@ -3,3 +3,4 @@ SOme text here.
 Adding a line.
 Checking commit once  again.
 Adding a line from my_branch
+Adding content
