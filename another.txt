@@ -1,3 +1,4 @@
 ANother file.
 Adding another line.
 Checking message template
+Adding a text from test_ours
